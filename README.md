@@ -1,7 +1,7 @@
 Twitter Sentiment Analysis
 ==========================
 
-Sentiment analysis in Twitter data with Apache Spark (Spark-streaming, spak-sql, GraphX).
+Sentiment analysis in Twitter data with Apache Spark (Spark-streaming, spark-sql, GraphX).
  
 * retrieve tweets using Spark Streaming & twitter4j
 * sentiment analysis (tweet level, hashtag level)
